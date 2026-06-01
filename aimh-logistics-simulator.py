@@ -4,6 +4,7 @@ from streamlit_folium import st_folium
 import pandas as pd
 import numpy as np
 import time
+import math
 
 # Import modular enterprise-grade components
 from scenarios import SCENARIOS
